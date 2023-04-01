@@ -1,0 +1,15 @@
+*
+!*/
+!*.*
+
+!LICENSE
+!Makefile
+
+*.exe
+bin/
+.DS_Store
+.coverage/
+.idea/
+.vimrc
+.vscode/
+vendor/
