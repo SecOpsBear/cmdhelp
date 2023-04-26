@@ -6,6 +6,12 @@ This is a simple cli tool to store commands in a sqlite database which is writte
 
 The commands are stored in a sqlite database. User can add various example commands for each individual tool. 
 
+## Demo  
+
+Below is a sample demo on storing commands to the database. More detailed usage is available at [SecOpsBear cmdhelp](https://secopsbear.com/tools/bear_tools/cmdhelp) 
+
+![Add commands to database](https://secopsbear.com/assets/images/cmdhelp-add-ae8a088a089b900d405849930cbe7bc1.gif)  
+
 ## How to build   
 
 ### Install in linux cmdhelp
